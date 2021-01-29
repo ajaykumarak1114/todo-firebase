@@ -1,0 +1,24 @@
+.todo_list{
+    text-align: center;
+}
+
+.MuiList-root {
+    margin: 0 400px !important;
+
+}
+
+.edit-btn{
+    
+    color: blue !important;
+    
+}
+.MuiSvgIcon-root {
+    margin-left: 400px;
+}
+
+.MuiTypography-body1 {
+    font-size: 2rem !important;
+   
+    font-weight: 800 !important;
+   
+}
